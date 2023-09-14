@@ -1,0 +1,13 @@
+{
+  "properties": [
+    {
+      "name": "cinema.rows",
+      "type": "java.lang.String",
+      "description": "Defines amount of rows in cinema.rows."
+    },
+    {
+      "name": "cinema.cols",
+      "type": "java.lang.String",
+      "description": "Defines amount of columns in cinema.cols."
+    }
+  ] }
